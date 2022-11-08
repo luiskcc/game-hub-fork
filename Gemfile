@@ -67,3 +67,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "httparty", "~> 0.20.0"
