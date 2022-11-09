@@ -20,3 +20,5 @@ List of free video games, with a link to the platform, images and platforms.
 
 https://rapidapi.com/ymfh/api/game-price/pricing
 An API to track game prices on Steam platform
+
+LETS BUILD!
