@@ -1,5 +1,3 @@
-RAPIDAPI GAME BROWSER
-
 https://rapidapi.com/thekevinconnor-lPsiMJNfyt0/api/free-epic-games/ (LINK BROKEN)
 Get a list of free Epic Games for the week
 
